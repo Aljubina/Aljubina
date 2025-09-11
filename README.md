@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Aljubina Gavit
 
-<!--
-**Aljubina/Aljubina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Computer Engineering student at I²IT Pune.  
+💻 I love building **Android apps, websites, and intuitive designs**.  
+💡 Currently curious about **AI/ML** and how tech can make life easier.  
+🚀 Always excited to learn, experiment, and solve real-world problems through code!
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Android Development**: Kotlin, Java, Android Studio, XML, Jetpack Compose  
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js  
+- **Programming**: Python, C++, Kotlin  
+- **UI/UX Design**: Figma  
+- **Tools & Version Control**: Git, GitHub, VS Code  
+- **Exploring**: Firebase ML Kit, OpenAI APIs, AI/ML  
+
+---
+
+✨ *"Exploring tech, one project at a time. Always curious, always learning."*  
