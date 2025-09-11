@@ -17,5 +17,4 @@
 - **Exploring**: Firebase ML Kit, OpenAI APIs, AI/ML  
 
 ---
-
-✨ *"Exploring tech, one project at a time. Always curious, always learning."*  
+✨ *"Building, breaking, learning — repeat. Welcome to my coding adventure."*
