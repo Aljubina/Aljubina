@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Aljubina Gavit<br><br>🎓 I'm a third-year Computer Engineering student at I²IT Pune.  <br>💻 I love building **Android apps, websites, and intuitive designs**.  <br>💡 Currently exploring Game Development and interactive systems.<br>🚀 Always excited to learn, experiment, and solve real-world problems through code!
+Hi 👋 I'm Aljubina Gavit<br><br>🎓 I'm a Computer Engineering student at I²IT Pune.  <br>💻 I love building **Android apps, websites, and intuitive designs**.  <br>💡 Currently exploring Game Development and interactive systems.<br>🚀 Always excited to learn, experiment, and solve real-world problems through code!
 
 
 ## 🌐 Socials:
